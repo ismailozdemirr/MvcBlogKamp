@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\MvcKampi\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\MvcKampi\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\pc\source\repos\MvcKampi\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\pc\source\repos\MvcKampi\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\pc\source\repos\MvcKampi\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\pc\source\repos\MvcKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\source\repos\MvcKampi\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\pc\source\repos\MvcKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\source\repos\MvcKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\pc\source\repos\MvcKampi\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\pc\source\repos\MvcKampi\EntityLayer\obj\Debug\EntityLayer.pdb

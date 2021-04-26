@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\pc\source\repos\MvcKampi\BusinessLayer\obj\Debug\BusinessLayer.pdb
